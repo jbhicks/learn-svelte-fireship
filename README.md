@@ -1,2 +1,1 @@
-# my-site
-My personal web site for creating a portfolio and learning new technologies
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
